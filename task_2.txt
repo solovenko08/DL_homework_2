@@ -1,4 +1,4 @@
-"( |<|^)(o|O)[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}"
+( |<|^)(o|O)[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}
 (34 hits)
 Line 5389: To: outlook.team@enron.com
 Line 10713: To: outlook.team@enron.com
